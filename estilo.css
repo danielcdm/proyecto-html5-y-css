@@ -84,6 +84,20 @@ nav ul li:hover ul{
 	height: auto;
 	margin: 0px auto 0px;
 }
+#mult h1{
+	color: #303F9F;
+	font-size: 2em;
+	font-family: 'Indie Flower',cursive;
+	text-align: center;
+	text-shadow: 2px 4px 4px #9FA8DA;
+}
+#mult h2{
+	color: #000000;
+	font-size: 2em;
+	font-family: 'Indie Flower',cursive;
+	text-align: center;
+	text-shadow: 2px 4px 4px #9FA8DA;
+}
 #contenido h2{
 	color: #303F9F;
 	font-size: 2em;
@@ -214,7 +228,7 @@ form textarea{
 article{
 	margin: 10px auto 10px;
 	height: auto;
-	width: 95%;
+	width: 85%;
 	border: 4px double #303F9F;
 	border-radius: 5px;
 	text-align: justify;
@@ -251,7 +265,7 @@ article{
 }
 #mult{
 	margin: 10px auto 10px;
-	width: 850px;
+	width: 40%;
 	height: auto;
 	display: block;
 }
